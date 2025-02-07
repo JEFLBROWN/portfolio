@@ -1,3 +1,9 @@
+---
+title: 'Cirriculum Vitae'
+author: 'Jef Brown'
+---
+
+
 Jeff Brown
 Artist & Designer
 
@@ -33,7 +39,7 @@ Artist & Designer
 
 ## **PROFESSIONAL EXPERIENCE**
 
-**Concept Designer | Telescope, Seattle, WA** | 10/2017 &ndash; 12/2019
+**Visual Designer | Telescope, Seattle, WA** | 10/2017 &ndash; 12/2019
 -  created compelling visual assets and marketing materials, designed to leave a lasting impression for clients
 -  Developed Brand Identity
 -  Led team of designers
