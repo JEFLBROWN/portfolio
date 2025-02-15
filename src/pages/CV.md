@@ -3,7 +3,6 @@ title: 'Cirriculum Vitae'
 author: 'Jef Brown'
 ---
 
-
 Jeff Brown
 Artist & Designer
 
