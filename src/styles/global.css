@@ -2,8 +2,9 @@
 @plugin '@tailwindcss/typography';
 
 
-html,body {
-  background-color:DimGray;
+body {
+  background-color: #3f3f3f; /* Dark Gray */
+  color: #e0e0e0; /* Light Gray Text */
 }
 
 @font-face {
@@ -28,4 +29,9 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Satoshi', sans-serif;
+}
+
+img {
+  @apply rounded-lg;
+  opacity: .88;
 }
